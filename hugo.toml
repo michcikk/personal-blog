@@ -1,8 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://michcio.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme='ananke'
+title = "Michal's Thoughtstream"
+theme='PaperMod'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
