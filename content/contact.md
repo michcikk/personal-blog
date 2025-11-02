@@ -7,7 +7,5 @@ disableShare: true
 ---
 You can reach me via:
 
-- Mail: <a href="mailto:x@michcio.xyz">x@michcio.xyz</a>
-- Socials:
-  - X
-  - Insta
+- Mail: <a href="mailto:hello@michcio.xyz">hello@michcio.xyz</a>
+- I still think about adding social handles here...
