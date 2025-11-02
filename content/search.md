@@ -1,6 +1,6 @@
 ---
 menus: main
-title: Search
+title: search
 placeholder: Search demo site with full text fuzzy search ...
 layout: "search"
 ---

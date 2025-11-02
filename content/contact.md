@@ -2,7 +2,8 @@
 date: '2025-10-23T17:10:08+02:00'
 draft: false
 menus: main
-title: Contact
+title: contact
+disableShare: true
 ---
 You can reach me via:
 
