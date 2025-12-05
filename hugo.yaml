@@ -38,6 +38,9 @@ languages:
         - name: contact
           url: contact/
           weight: 10
+        - name: series
+          url: series/
+          weight: 10
         - name: tags
           url: tags/
           weight: 10
