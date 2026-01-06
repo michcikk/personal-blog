@@ -8,4 +8,4 @@ disableShare: true
 You can reach me via:
 
 - Mail: <a href="mailto:hello@michcio.xyz">hello@michcio.xyz</a>
-- I still think about adding social handles here...
+- Linkedin: <a href="https://linkedin.com/in/michcio">michcio</a>

@@ -58,7 +58,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: michcio.xyz
   description: My take on Business Automation, Requirements Gathering and Veganism
-  keywords: [Blog, Portfolio, PaperMod, Requirements Gathering, Business Automation, Veganism]
+  keywords: [Blog, Portfolio, PaperMod, Requirements, Business Automation, Veganism]
   author: Michal Cholewski
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -120,7 +120,7 @@ params:
     Content: |
       👋 Welcome to my thoughtstream!<br>
       <br>
-      I am Automation Developer really into **workflow & organizational improvements** and how to fix ever aching process of *gathering requirements & refining* them. I am also a filthy **vegan** so expect to find a bit on that.<br>
+      I am Full Stack Analyst & Automation Specialist really into **workflow & organizational improvements** and how to fix ever-aching process of *gathering requirements & refining* them. I am also a filthy **vegan** so expect to find a bit on that.<br>
       <br>
       I'm not very socially sharing person so you might not find a lot on my Social Medias, if you'd like to know me better head to [contact](contact/).<br>
       <br>
