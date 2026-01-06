@@ -12,8 +12,16 @@
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Thu, 23 Oct 2025 12:09:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 17:09:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is RPA?</title>
+      <link>http://localhost:1313/posts/what-is-rpa/</link>
+      <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/what-is-rpa/</guid>
+      <description>&lt;h2 id=&#34;historical-background&#34;&gt;historical background&lt;/h2&gt;
+&lt;p&gt;I work in a field that is on the verge of IT and Business - &lt;strong&gt;robotic process automation&lt;/strong&gt; which is fancy (and now standardized) name for a business automation. When such teams were being introduced to organizations about 10 years ago, the RPA software was still immature and many automations were done using battle-tested Office (mostly Excel, Access) macros. It had its disadvantages but allowed for fast development. Currently Microsoft is slowly killing it (due to security risks) and replacing with much safer (and web-enabled) Office Scripts. Main disadvantages for the macros is that environment it is being ran on might be different than development environment - your US colleague&amp;rsquo;s PC has different settings (decimal separator, encoding, etc.) than your Polish-set machine. RPA software was designed to fix it with &amp;lsquo;robots&amp;rsquo; that run on a VM. Robot could&amp;rsquo;ve done same thing as macro but now RPA team was able to control the environment parameters.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>We&#39;ve come full circle back to macros</title>
       <link>http://localhost:1313/posts/we-ve-come-full-circle/</link>
