@@ -26,7 +26,7 @@ There are once big, now in decline vendors like [Automation Anywhere](https://ww
 
 > Another sad story regarding aquisition - Sema4AI bought RoboCorp which had already developed and open-sourced Python-based RPA solution. It was based on Robot Framework for automated test in Python but RoboCorp team also delivered many Python RPA libraries beside what mentioned framework offered. There was code-blocks IDE built in VSCode and code translation service from UiPath .xaml files. All of it now gone but hapilly all the [code is still available on Github](https://github.com/robocorp/robocorp) and [RoboCorp website is still alive](https://robocorp.com/portal) even if only as documentation portal.
 
-I have not heard about any in-company purpose-built RPA platforms so if there are any in your companies, please [let me know](/content/contact.md).
+I have not heard about any in-company purpose-built RPA platforms so if there are any in your companies, please [let me know](http://michcio.xyz/contact).
 
 ## RPA & AI
 
