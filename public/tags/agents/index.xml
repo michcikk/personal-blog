@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agents on michcio.xyz</title>
+    <link>http://localhost:1313/tags/agents/</link>
+    <description>Recent content in Agents on michcio.xyz</description>
+    <image>
+      <title>michcio.xyz</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.151.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Thu, 23 Oct 2025 12:09:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We&#39;ve come full circle back to macros</title>
+      <link>http://localhost:1313/posts/we-ve-come-full-circle/</link>
+      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/we-ve-come-full-circle/</guid>
+      <description>&lt;p&gt;History likes to repeat itself and it does again. I would never expect that office macros will be in the spotlight, especially that Microsoft intentionally (and rightly!) started killing them some time ago. That&amp;rsquo;s what AI Agents are - they are macros, just waaaay worse.&lt;/p&gt;
+&lt;h2 id=&#34;past-that-cant-let-go&#34;&gt;Past (that can&amp;rsquo;t let go)&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve been working in (business) automation for about 10 years. My journey started as university student when I wanted to create report templates that are automatically calculated based on empirical data gathered during labs. All calculations were done using Microsoft Excel and when I learned that it had capabilities to create reusable scripts &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

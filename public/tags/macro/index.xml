@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Macro on michcio.xyz</title>
+    <link>http://localhost:1313/tags/macro/</link>
+    <description>Recent content in Macro on michcio.xyz</description>
+    <image>
+      <title>michcio.xyz</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.151.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Tue, 06 Jan 2026 17:09:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is RPA?</title>
+      <link>http://localhost:1313/posts/what-is-rpa/</link>
+      <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/what-is-rpa/</guid>
+      <description>&lt;h2 id=&#34;historical-background&#34;&gt;historical background&lt;/h2&gt;
+&lt;p&gt;I work in a field that is on the verge of IT and Business - &lt;strong&gt;robotic process automation&lt;/strong&gt; which is fancy (and standardized) name for a business automation. When such teams were being introduced to organizations about 10 years ago, the RPA software was still immature and many automations were done using battle-tested Excel macros. It had its disadvantages but allowed for fast development. Currently Microsoft is slowly killing it (due to security risks) and replacing with much safer  (and web enabled) Office Scripts. Main disadvantages for the macros is that environment it is being ran on might be different than development environment - your US colleague&amp;rsquo;s PC has different settings (decimal separator, encoding, etc.) than your Polish machine. RPA software was designed to fix it with &amp;lsquo;robots&amp;rsquo; that run on a VM. Robot could&amp;rsquo;ve done same thing as macro but now RPA team was able to control the environment parameters.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

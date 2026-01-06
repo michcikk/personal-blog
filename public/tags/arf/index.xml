@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arf on michcio.xyz</title>
+    <link>http://localhost:1313/tags/arf/</link>
+    <description>Recent content in Arf on michcio.xyz</description>
+    <image>
+      <title>michcio.xyz</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.151.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 04 Jan 2026 12:09:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/arf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation Requirement Framework, part 1: introduction</title>
+      <link>http://localhost:1313/posts/automation-requirement-framework-1/</link>
+      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/automation-requirement-framework-1/</guid>
+      <description>&lt;p&gt;outline:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;why did i started working on this framework&lt;/li&gt;
+&lt;li&gt;why i think it is beneficial&lt;/li&gt;
+&lt;li&gt;what is the process (including backlog priority &amp;amp; then development priority)&lt;/li&gt;
+&lt;li&gt;task/process differentiation (nr of steps vs. nr of people (teams?) involved vs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;ndash;
+Now, that we live in AI age, anything can be easily build. Claude Code (or other CLI tools), prompt and you might have a working software within minutes. Obviously focus shifted from &amp;lsquo;&lt;strong&gt;what&lt;/strong&gt; and &lt;strong&gt;how&lt;/strong&gt; should we build?&amp;rsquo; TO &lt;strong&gt;when&lt;/strong&gt;. Now, that we can create anything quickly, prioritization will play even bigger role than before.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
