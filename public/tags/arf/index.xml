@@ -12,20 +12,14 @@
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Sun, 04 Jan 2026 12:09:44 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 12:09:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/arf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automation Requirement Framework, part 1: introduction</title>
       <link>http://localhost:1313/posts/automation-requirement-framework-1/</link>
-      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
+      <pubDate>Sun, 15 Feb 2026 12:09:44 +0200</pubDate>
       <guid>http://localhost:1313/posts/automation-requirement-framework-1/</guid>
-      <description>&lt;p&gt;outline:
-&lt;s&gt;1. why did i started working on this framework&lt;/s&gt;
-2. why i think it is beneficial
-3. what is the process (including backlog priority &amp;amp; then development priority)
-4. task/process differentiation (nr of steps vs. nr of people (teams?) involved vs.&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+      <description>&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
     &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
 &lt;/a&gt;
 &lt;h2 id=&#34;what-do-you-need-this-for&#34;&gt;what do you need this for?&lt;/h2&gt;

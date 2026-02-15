@@ -73,4 +73,4 @@ This step is an automated form with multiple fields:
 
 ### template
 
-All data can be found in a sheet called "1. Initial questions" in <a href="/static/downloads/test.txt" download>downloadable Excel file</a>. Next steps will be covered in next entry in a series.
+All data can be found in a sheet called "1. Initial questions" in <a href="/downloads/test.txt" download>testing</a>. Next steps will be covered in next entry in a series.

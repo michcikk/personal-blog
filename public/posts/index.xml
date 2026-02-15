@@ -12,8 +12,19 @@
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 17:09:44 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 12:09:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation Requirement Framework, part 1: introduction</title>
+      <link>http://localhost:1313/posts/automation-requirement-framework-1/</link>
+      <pubDate>Sun, 15 Feb 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/automation-requirement-framework-1/</guid>
+      <description>&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
+&lt;/a&gt;
+&lt;h2 id=&#34;what-do-you-need-this-for&#34;&gt;what do you need this for?&lt;/h2&gt;
+&lt;p&gt;I have started working on this due to constantly hearing of or experiencing myself this trival thing called &lt;i&gt;changing requirements&lt;/i&gt;. All development today is created using Agile principles of course, although that doesn&amp;rsquo;t mean we shouldn&amp;rsquo;t have strong foundation to later &lt;b&gt;improve&lt;/b&gt; on it. Yes, improve - not change. I think as analysts / designers / developers we should be as thorough as possible when it comes to first sketch of a solution, after all how do you write your stories / tasks / features if anything is missing. At the same time, software development is a bit different than (process) automation development. You need mapped end-to-end process to even start thinking about designing solution - making shortcuts, simpifying, integrating with existing solutions or even researching accesses required. Automating is more of a &lt;i&gt;waterfall&lt;/i&gt; project with some flexibility when it comes to extending or improving on the way. Reducing the risk of any changes during the development makes projects being delivered faster and coders a lot happier.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What is RPA?</title>
       <link>http://localhost:1313/posts/what-is-rpa/</link>
@@ -24,23 +35,6 @@
 &lt;/a&gt;
 &lt;h2 id=&#34;historical-background&#34;&gt;historical background&lt;/h2&gt;
 &lt;p&gt;I work in a field that is on the verge of IT and Business - &lt;strong&gt;robotic process automation&lt;/strong&gt; which is fancy (and now standardized) name for a business automation. When such teams were being introduced to organizations about 10 years ago, the RPA software was still immature and many automations were done using battle-tested Office (mostly Excel, Access) macros. It had its disadvantages but allowed for fast development. Currently Microsoft is slowly killing it (due to security risks) and replacing with much safer (and web-enabled) Office Scripts. Main disadvantages for the macros is that environment it is being ran on might be different than development environment - your US colleague&amp;rsquo;s PC has different settings (decimal separator, encoding, etc.) than your Polish-set machine. RPA software was designed to fix it with &amp;lsquo;robots&amp;rsquo; that run on a VM. Robot could&amp;rsquo;ve done same thing as macro but now RPA team was able to control the environment parameters.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Automation Requirement Framework, part 1: introduction</title>
-      <link>http://localhost:1313/posts/automation-requirement-framework-1/</link>
-      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/automation-requirement-framework-1/</guid>
-      <description>&lt;p&gt;outline:
-&lt;s&gt;1. why did i started working on this framework&lt;/s&gt;
-2. why i think it is beneficial
-3. what is the process (including backlog priority &amp;amp; then development priority)
-4. task/process differentiation (nr of steps vs. nr of people (teams?) involved vs.&lt;/p&gt;
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
-&lt;/a&gt;
-&lt;h2 id=&#34;what-do-you-need-this-for&#34;&gt;what do you need this for?&lt;/h2&gt;
-&lt;p&gt;I have started working on this due to constantly hearing of or experiencing myself this trival thing called &lt;i&gt;changing requirements&lt;/i&gt;. All development today is created using Agile principles of course, although that doesn&amp;rsquo;t mean we shouldn&amp;rsquo;t have strong foundation to later &lt;b&gt;improve&lt;/b&gt; on it. Yes, improve - not change. I think as analysts / designers / developers we should be as thorough as possible when it comes to first sketch of a solution, after all how do you write your stories / tasks / features if anything is missing. At the same time, software development is a bit different than (process) automation development. You need mapped end-to-end process to even start thinking about designing solution - making shortcuts, simpifying, integrating with existing solutions or even researching accesses required. Automating is more of a &lt;i&gt;waterfall&lt;/i&gt; project with some flexibility when it comes to extending or improving on the way. Reducing the risk of any changes during the development makes projects being delivered faster and coders a lot happier.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
