@@ -1,6 +1,6 @@
 ---
 date: "2026-02-15T12:09:44+02:00"
-draft: false
+draft: true
 title: 'Automation Requirement Framework, part 1: introduction'
 tags: ['work', 'automation', 'framework', 'business', 'arf', 'requirements', 'software development']
 series: ['automation requirement framework']
