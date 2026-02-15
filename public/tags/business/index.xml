@@ -12,80 +12,8 @@
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 12:09:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 17:09:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automation Requirement Framework, part 5: team workflow</title>
-      <link>http://localhost:1313/posts/automation-requirement-framework-5/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/automation-requirement-framework-5/</guid>
-      <description>&lt;p&gt;outline:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;team workflow
-&lt;ul&gt;
-&lt;li&gt;initial questionnaire (automatic) -&amp;gt; work item created set with properly on the board according to backlog priority&lt;/li&gt;
-&lt;li&gt;available person goes through form (process / task)&lt;/li&gt;
-&lt;li&gt;meeting &amp;amp; guidance from the team
-&lt;ul&gt;
-&lt;li&gt;split into functionalities &amp;amp; create sub work items (user stories/tasks)&lt;/li&gt;
-&lt;li&gt;designated person request accesses&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;calculate development priority &amp;amp; put on board&lt;/li&gt;
-&lt;li&gt;development&lt;/li&gt;
-&lt;li&gt;send-off&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Automation Requirement Framework, part 4: one-time automation cases</title>
-      <link>http://localhost:1313/posts/automation-requirement-framework-4/</link>
-      <pubDate>Fri, 30 Jan 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/automation-requirement-framework-4/</guid>
-      <description>&lt;p&gt;outline:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;one-time automation (specific case)&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Automation Requirement Framework, part 3: pre-development questions</title>
-      <link>http://localhost:1313/posts/automation-requirement-framework-3/</link>
-      <pubDate>Tue, 20 Jan 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/automation-requirement-framework-3/</guid>
-      <description>&lt;p&gt;outline:
-1.
-2. task requirements &amp;amp; defined process -&amp;gt; pre-development gathering steps
-- must have ((new) SOP)
-- all metrics &amp;amp; technical data
-3. development priority calculation with (rolling)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Automation Requirement Framework, part 2: process deep dive</title>
-      <link>http://localhost:1313/posts/automation-requirement-framework-2/</link>
-      <pubDate>Sat, 10 Jan 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/automation-requirement-framework-2/</guid>
-      <description>&lt;p&gt;outline:
-next steps after task/process split&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;basic variables for backlog priority (impact, nr of steps, saving, BENEFIT TYPE, etc.) + equation proposition&lt;/li&gt;
-&lt;li&gt;split for process/task (task -&amp;gt; straight to development)&lt;/li&gt;
-&lt;li&gt;process requirements gathering steps
-&lt;ul&gt;
-&lt;li&gt;must-ask questions (deal breakers)&lt;/li&gt;
-&lt;li&gt;must have (SOPs)&lt;/li&gt;
-&lt;li&gt;good tool for understanding all involved parties - COPIS (or SIPOC)&lt;/li&gt;
-&lt;li&gt;questions for understanding process itself and getting metrics, SLAs, etc.&lt;/li&gt;
-&lt;li&gt;questions for understanding process in company scope&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;process streamline / redefine
-&lt;ul&gt;
-&lt;li&gt;should there be any additional standardize questions? (technical, organizational, etc.?)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
     <item>
       <title>What is RPA?</title>
       <link>http://localhost:1313/posts/what-is-rpa/</link>

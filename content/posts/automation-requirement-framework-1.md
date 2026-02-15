@@ -1,19 +1,11 @@
 ---
-date: "2026-01-04T12:09:44+02:00"
+date: "2026-02-15T12:09:44+02:00"
 draft: false
 title: 'Automation Requirement Framework, part 1: introduction'
 tags: ['work', 'automation', 'framework', 'business', 'arf', 'requirements', 'software development']
 series: ['automation requirement framework']
 disableShare: true # OR ShareButtons: ["linkedin", "github", "x"] to limit defaults
 ---
-
-outline:
-<s>1. why did i started working on this framework</s>
-2. why i think it is beneficial
-3. what is the process (including backlog priority & then development priority)
-4. task/process differentiation (nr of steps vs. nr of people (teams?) involved vs. 
-
---
 
 {{< not-ai-icon >}}
 

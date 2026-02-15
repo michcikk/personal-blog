@@ -12,48 +12,20 @@
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 12:09:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 17:09:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Arf</title>
-      <link>http://localhost:1313/tags/arf/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/arf/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Automation</title>
       <link>http://localhost:1313/tags/automation/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
+      <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
       <guid>http://localhost:1313/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Business</title>
       <link>http://localhost:1313/tags/business/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
+      <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
       <guid>http://localhost:1313/tags/business/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Framework</title>
-      <link>http://localhost:1313/tags/framework/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/framework/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Requirements</title>
-      <link>http://localhost:1313/tags/requirements/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/requirements/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>http://localhost:1313/tags/work/</link>
-      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/work/</guid>
       <description></description>
     </item>
     <item>
@@ -92,59 +64,38 @@
       <description></description>
     </item>
     <item>
+      <title>Work</title>
+      <link>http://localhost:1313/tags/work/</link>
+      <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arf</title>
+      <link>http://localhost:1313/tags/arf/</link>
+      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/arf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Framework</title>
+      <link>http://localhost:1313/tags/framework/</link>
+      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Requirements</title>
+      <link>http://localhost:1313/tags/requirements/</link>
+      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/requirements/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Software Development</title>
       <link>http://localhost:1313/tags/software-development/</link>
       <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
       <guid>http://localhost:1313/tags/software-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code Review</title>
-      <link>http://localhost:1313/tags/code-review/</link>
-      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/code-review/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Compassion</title>
-      <link>http://localhost:1313/tags/compassion/</link>
-      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/compassion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Empathy</title>
-      <link>http://localhost:1313/tags/empathy/</link>
-      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/empathy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mentoring</title>
-      <link>http://localhost:1313/tags/mentoring/</link>
-      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/mentoring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Agents</title>
-      <link>http://localhost:1313/tags/agents/</link>
-      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/agents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ai</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Macros</title>
-      <link>http://localhost:1313/tags/macros/</link>
-      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/macros/</guid>
       <description></description>
     </item>
   </channel>
