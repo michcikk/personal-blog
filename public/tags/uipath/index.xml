@@ -19,7 +19,10 @@
       <link>http://localhost:1313/posts/what-is-rpa/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
       <guid>http://localhost:1313/posts/what-is-rpa/</guid>
-      <description>&lt;h2 id=&#34;historical-background&#34;&gt;historical background&lt;/h2&gt;
+      <description>&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
+&lt;/a&gt;
+&lt;h2 id=&#34;historical-background&#34;&gt;historical background&lt;/h2&gt;
 &lt;p&gt;I work in a field that is on the verge of IT and Business - &lt;strong&gt;robotic process automation&lt;/strong&gt; which is fancy (and now standardized) name for a business automation. When such teams were being introduced to organizations about 10 years ago, the RPA software was still immature and many automations were done using battle-tested Office (mostly Excel, Access) macros. It had its disadvantages but allowed for fast development. Currently Microsoft is slowly killing it (due to security risks) and replacing with much safer (and web-enabled) Office Scripts. Main disadvantages for the macros is that environment it is being ran on might be different than development environment - your US colleague&amp;rsquo;s PC has different settings (decimal separator, encoding, etc.) than your Polish-set machine. RPA software was designed to fix it with &amp;lsquo;robots&amp;rsquo; that run on a VM. Robot could&amp;rsquo;ve done same thing as macro but now RPA team was able to control the environment parameters.&lt;/p&gt;</description>
     </item>
   </channel>

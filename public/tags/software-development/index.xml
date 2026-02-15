@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Development on michcio.xyz</title>
+    <link>http://localhost:1313/tags/software-development/</link>
+    <description>Recent content in Software Development on michcio.xyz</description>
+    <image>
+      <title>michcio.xyz</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.151.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 04 Jan 2026 12:09:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation Requirement Framework, part 1: introduction</title>
+      <link>http://localhost:1313/posts/automation-requirement-framework-1/</link>
+      <pubDate>Sun, 04 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/automation-requirement-framework-1/</guid>
+      <description>&lt;p&gt;outline:
+&lt;s&gt;1. why did i started working on this framework&lt;/s&gt;
+2. why i think it is beneficial
+3. what is the process (including backlog priority &amp;amp; then development priority)
+4. task/process differentiation (nr of steps vs. nr of people (teams?) involved vs.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
+&lt;/a&gt;
+&lt;h2 id=&#34;what-do-you-need-this-for&#34;&gt;what do you need this for?&lt;/h2&gt;
+&lt;p&gt;I have started working on this due to constantly hearing of or experiencing myself this trival thing called &lt;i&gt;changing requirements&lt;/i&gt;. All development today is created using Agile principles of course, although that doesn&amp;rsquo;t mean we shouldn&amp;rsquo;t have strong foundation to later &lt;b&gt;improve&lt;/b&gt; on it. Yes, improve - not change. I think as analysts / designers / developers we should be as thorough as possible when it comes to first sketch of a solution, after all how do you write your stories / tasks / features if anything is missing. At the same time, software development is a bit different than (process) automation development. You need mapped end-to-end process to even start thinking about designing solution - making shortcuts, simpifying, integrating with existing solutions or even researching accesses required. Automating is more of a &lt;i&gt;waterfall&lt;/i&gt; project with some flexibility when it comes to extending or improving on the way. Reducing the risk of any changes during the development makes projects being delivered faster and coders a lot happier.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

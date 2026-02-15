@@ -6,6 +6,8 @@ tags: ['work', 'automation', 'business', 'rpa', 'macro', 'excel', 'uipath', 'mic
 disableShare: true # OR ShareButtons: ["linkedin", "github", "x"] to limit defaults
 ---
 
+{{< not-ai-icon >}}
+
 ## historical background
 
 I work in a field that is on the verge of IT and Business - **robotic process automation** which is fancy (and now standardized) name for a business automation. When such teams were being introduced to organizations about 10 years ago, the RPA software was still immature and many automations were done using battle-tested Office (mostly Excel, Access) macros. It had its disadvantages but allowed for fast development. Currently Microsoft is slowly killing it (due to security risks) and replacing with much safer (and web-enabled) Office Scripts. Main disadvantages for the macros is that environment it is being ran on might be different than development environment - your US colleague's PC has different settings (decimal separator, encoding, etc.) than your Polish-set machine. RPA software was designed to fix it with 'robots' that run on a VM. Robot could've done same thing as macro but now RPA team was able to control the environment parameters.
