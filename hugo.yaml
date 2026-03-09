@@ -84,6 +84,7 @@ params:
   ShowToc: true
   tocopen: false
   images: ["images/papermod-cover.png"]
+  math: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -192,5 +193,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
-

@@ -98,5 +98,54 @@
       <guid>http://localhost:1313/tags/uipath/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Code Review</title>
+      <link>http://localhost:1313/tags/code-review/</link>
+      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/code-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compassion</title>
+      <link>http://localhost:1313/tags/compassion/</link>
+      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/compassion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empathy</title>
+      <link>http://localhost:1313/tags/empathy/</link>
+      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/empathy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mentoring</title>
+      <link>http://localhost:1313/tags/mentoring/</link>
+      <pubDate>Mon, 24 Nov 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/mentoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agents</title>
+      <link>http://localhost:1313/tags/agents/</link>
+      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macros</title>
+      <link>http://localhost:1313/tags/macros/</link>
+      <pubDate>Thu, 23 Oct 2025 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/tags/macros/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
