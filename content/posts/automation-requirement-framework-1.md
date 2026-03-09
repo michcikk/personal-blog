@@ -38,6 +38,7 @@ Idea behind creating such framework is not only for asking the right questions r
 Framework is automated (procedural) and focuses on idea that is already shared between stakeholder and your automation team. This is not a guide on how to search new automation ideas in an organization (such effort would be futile as however similar, all organizations are different). Starting point is an idea already registered in your team's "database" - through Jira ticket, Automation Hub workflow, verbal understanding or any other approach your team mind find fit.
 
 <b>1. Idea assessed as technically feasible (might be in a form of hackathon, architect's opinion or any technical team member's investigation)</b>
+<br>
 <b>2. Calculate priority</b>
 
 This step is an automated form with multiple fields:
@@ -178,12 +179,12 @@ If you want to turn this equation into <b>rolling</b> one (priority number growi
 
 In next episodes we will cover next steps:
 
-<b>4. Critical Questions (validity)</b>
-<b>5. One-Time Automation Questions</b>
-<b>6. COPIS</b>
-<b>7.1. Process Improvement</b>
-<b>7.2. Task Development</b>
-<b>8. Development Effort Scoring</b>
+<b>4. Critical Questions (validity)</b><br>
+<b>5. One-Time Automation Questions</b><br>
+<b>6. COPIS</b><br>
+<b>7.1. Process Improvement</b><br>
+<b>7.2. Task Development</b><br>
+<b>8. Development Effort Scoring</b><br>
 
 
 ### template
