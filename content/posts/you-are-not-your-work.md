@@ -18,7 +18,7 @@ Having said that, I know working with others is tough - you might have different
 
 There are situation that drives emotions up, especially negative emotions. Code reviews, 1-to-1s or really anything related to receiving or giving feedback. Someone took arbitrary decision leaving you concerned and fearful. Unstructured and/or ad-hoc meetings that could've been an e-mail - exhaustion deeply affects our mood. Depending on which side of those situations you are, your feelings will be different, obviously. How to react? I don't think there are universal guidelines, I can only share what I try to do in some of those situations when they happen to me. But before that, let's look at what common type of behaviors people might present in a workplace.
 
-## behaviour types
+## behavior types
 
 None of those below are personality traits. It's rather situational behavior - any of us can act like one when the scene trigger our machanisms. As in any problem-solving case, you must first understand the story itself and select the best tool for a job. Whenever you can, introspect and try to find why are you a "complainer" now and why were you "next-timer" on the other meeting.
 
