@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-04T19:00:44+02:00</lastmod>
+    <lastmod>2026-04-19T12:09:44+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-04T19:00:44+02:00</lastmod>
+    <lastmod>2026-04-19T12:09:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/code-review/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/compassion/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/empathy/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mentoring/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/work/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/you-are-not-your-work/</loc>
+    <lastmod>2026-04-04T18:00:44+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/arf/</loc>
     <lastmod>2026-03-09T12:19:00+02:00</lastmod>
@@ -35,11 +56,14 @@
     <loc>http://localhost:1313/tags/software-development/</loc>
     <lastmod>2026-03-09T12:19:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-09T12:19:00+02:00</lastmod>
+    <loc>http://localhost:1313/posts/automation-requirement-framework-5/</loc>
+    <lastmod>2026-02-01T12:09:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/work/</loc>
-    <lastmod>2026-03-09T12:19:00+02:00</lastmod>
+    <loc>http://localhost:1313/posts/automation-requirement-framework-4/</loc>
+    <lastmod>2026-01-30T12:09:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/automation-requirement-framework-3/</loc>
+    <lastmod>2026-01-20T12:09:44+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/excel/</loc>
     <lastmod>2026-01-06T17:09:44+02:00</lastmod>
@@ -61,6 +85,18 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-10-23T17:10:08+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/agents/</loc>
+    <lastmod>2025-10-23T12:09:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-10-23T12:09:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/macros/</loc>
+    <lastmod>2025-10-23T12:09:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/we-ve-come-full-circle/</loc>
+    <lastmod>2025-10-23T12:09:44+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

@@ -1,7 +1,7 @@
 ---
 date: "2026-03-09T12:19:00+02:00"
 draft: false
-title: 'Automation Requirement Framework, part 1: introduction'
+title: 'Automation Requirement Framework, part 1: priority'
 tags: ['work', 'automation', 'framework', 'business', 'arf', 'requirements', 'software development']
 series: ['automation requirement framework']
 disableShare: true # OR ShareButtons: ["linkedin", "github", "x"] to limit defaults
@@ -165,8 +165,10 @@ If you want to turn this equation into <b>rolling</b> one (priority number growi
 </math>
 <br>
 
-<b>3. Bucket placement (optional)</b>
+<b>3. Bucket placement (optional 👀) & steps split (recommended ☑️)</b>
 > there are many approaches to find bucket - my idea is to group by <b>complexity & saving</b> as that makes the most sense (initial effort and expected results mapping); other approaches could rely on completely different set of data, even not included earlier, like <b>nr of teams / people involved in this process & saving</b>. You can arbitrary choose what data you want to map in your buckets and name them accordingly. Buckets are fully optional but for this specific framework splitting complexity by under and over 10 steps allows us to predict if a task will require complete solution design or rather automation will replace existing procedure (more or less) 1-to-1. Bucket should help you understand the project's benefits and complexity by looking at its name
+
+When you don't want to spend time on naming and grouping by buckets, there is one thing that is crucial for moving forward and some of the framework depends on it. Splitting the idea into at least 2 categories - task & process (more if you want) - allow for us to select proper workflow/procedure path for each of the types. This will come in handy in the next steps.
 
 <br>
 

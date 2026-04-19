@@ -15,7 +15,7 @@
     <lastBuildDate>Mon, 09 Mar 2026 12:19:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/requirements/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automation Requirement Framework, part 1: introduction</title>
+      <title>Automation Requirement Framework, part 1: priority</title>
       <link>http://localhost:1313/posts/automation-requirement-framework-1/</link>
       <pubDate>Mon, 09 Mar 2026 12:19:00 +0200</pubDate>
       <guid>http://localhost:1313/posts/automation-requirement-framework-1/</guid>
@@ -24,6 +24,52 @@
 &lt;/a&gt;
 &lt;h2 id=&#34;what-do-you-need-this-for&#34;&gt;what do you need this for?&lt;/h2&gt;
 &lt;p&gt;I have started working on this due to constantly hearing of or experiencing myself this trival thing called &lt;i&gt;changing requirements&lt;/i&gt;. All development today is created using Agile principles of course, although that doesn&amp;rsquo;t mean we shouldn&amp;rsquo;t have strong foundation to later &lt;b&gt;improve&lt;/b&gt; on it. Yes, improve - not change. I think as analysts / designers / developers we should be as thorough as possible when it comes to first sketch of a solution, after all how do you write your stories / tasks / features if anything is missing. At the same time, software development is a bit different than (process) automation development. You need mapped end-to-end process to even start thinking about designing solution - making shortcuts, simpifying, integrating with existing solutions or even researching accesses required. Automating is more of a &lt;i&gt;waterfall&lt;/i&gt; project with some flexibility when it comes to extending or improving on the way. Reducing the risk of any changes during the development makes projects being delivered faster and coders a lot happier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automation Requirement Framework, part 5: team workflow</title>
+      <link>http://localhost:1313/posts/automation-requirement-framework-5/</link>
+      <pubDate>Sun, 01 Feb 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/automation-requirement-framework-5/</guid>
+      <description>&lt;p&gt;outline:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;team workflow
+&lt;ul&gt;
+&lt;li&gt;initial questionnaire (automatic) -&amp;gt; work item created set with properly on the board according to backlog priority&lt;/li&gt;
+&lt;li&gt;available person goes through form (process / task)&lt;/li&gt;
+&lt;li&gt;meeting &amp;amp; guidance from the team
+&lt;ul&gt;
+&lt;li&gt;split into functionalities &amp;amp; create sub work items (user stories/tasks)&lt;/li&gt;
+&lt;li&gt;designated person request accesses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;calculate development priority &amp;amp; put on board&lt;/li&gt;
+&lt;li&gt;development&lt;/li&gt;
+&lt;li&gt;send-off&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Automation Requirement Framework, part 4: one-time automation cases</title>
+      <link>http://localhost:1313/posts/automation-requirement-framework-4/</link>
+      <pubDate>Fri, 30 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/automation-requirement-framework-4/</guid>
+      <description>&lt;p&gt;outline:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;one-time automation (specific case)&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Automation Requirement Framework, part 3: pre-development questions</title>
+      <link>http://localhost:1313/posts/automation-requirement-framework-3/</link>
+      <pubDate>Tue, 20 Jan 2026 12:09:44 +0200</pubDate>
+      <guid>http://localhost:1313/posts/automation-requirement-framework-3/</guid>
+      <description>&lt;p&gt;outline:
+1.
+2. task requirements &amp;amp; defined process -&amp;gt; pre-development gathering steps
+- must have ((new) SOP)
+- all metrics &amp;amp; technical data
+3. development priority calculation with (rolling)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
