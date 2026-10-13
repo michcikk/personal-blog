@@ -36,7 +36,7 @@ flowchart TD
     globalForm@{ shape: "card", label: "***FULL*** questionnaire"}
     development@{ shape: "console", label: "development" }
     onlyImprovement@{ shape: "doc", label: "document new process" }
-    otherSolution["different solution (or technology)"]
+    otherSolution(["different solution (or technology)"])
 
     local ---> localForm
     localForm ---> technical
@@ -48,9 +48,27 @@ flowchart TD
     globalForm ---> refine
     refine ---> scope
     scope ---> decide
-    decide --> |<b>automation</b>| localForm
-    decide ---> |<b>only process improvement</b>| onlyImprovement
-    decide ---> |<b>other</b>| otherSolution 
+    decide --> |<b><i>AUTOMATION</i></b>| localForm
+    decide ---> |"<b><i>(only) PROCESS IMPROVEMENT</i></b>"| onlyImprovement
+    decide ---> |<b>OTHER</b>| otherSolution
+
+    style local fill:#ffaa54
+    style global fill:#85a7ff
+    style globalForm fill:#c3e69a, color: #000
+    style localForm fill:#c3e69a, color: #000
+    style decide fill:#d16443, color: #000
+    style fast fill:#b469ff, color: #000
+    style otherSolution fill:#e99de5, color:#000
+
+    style refine fill: #70d4c2
+    style scope fill: #9be8ee
+    style technical fill: #70d4c2
+
+    linkStyle 0,1,2 stroke:#ffaa54, stroke-width: 2px;
+    linkStyle 3 stroke:#b469ff, stroke-width: 2px;
+    linkStyle 4,5,6,7,8,9 stroke:#85a7ff, stroke-width: 2px;
+    linkStyle 10 stroke:#85a7ff,color: #e91414, stroke-width:2px;
+
  ```
 
 # next steps
