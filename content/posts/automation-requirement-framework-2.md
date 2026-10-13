@@ -1,5 +1,5 @@
 ---
-date: "2026-10-14T09:09:44+02:00"
+date: "2026-10-13T09:09:44+02:00"
 draft: false
 title: 'Automation Requirement Framework, part 2: process deep dive'
 tags: ['work', 'automation', 'framework', 'business', 'arf', 'requirements']
