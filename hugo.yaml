@@ -184,6 +184,9 @@ menu:
 
 markup:
   goldmark:
+    renderhooks:
+      link:
+        enableDefault: true
     renderer:
       unsafe: true
   highlight:
