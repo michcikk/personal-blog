@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Empathy on michcio.xyz</title>
-    <link>http://localhost:1313/tags/empathy/</link>
+    <link>https://michcio.xyz/tags/empathy/</link>
     <description>Recent content in Empathy on michcio.xyz</description>
     <image>
       <title>michcio.xyz</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://michcio.xyz/images/papermod-cover.png</url>
+      <link>https://michcio.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sat, 04 Apr 2026 18:00:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michcio.xyz/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>You Are Not Your Work</title>
-      <link>http://localhost:1313/posts/you-are-not-your-work/</link>
+      <link>https://michcio.xyz/posts/you-are-not-your-work/</link>
       <pubDate>Sat, 04 Apr 2026 18:00:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/you-are-not-your-work/</guid>
+      <guid>https://michcio.xyz/posts/you-are-not-your-work/</guid>
       <description>&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
+    &lt;img src=&#34;https://michcio.xyz/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
 &lt;/a&gt;
 &lt;p&gt;There are times when in your workplace you might feel not good enough or find yourself being subject of an impostor syndrom. There are probably also times when you find youself feeling superior, underappreciated and sometimes just angry at everyone&amp;rsquo;s incompetence. That is compeletly fine and that happens to everyone. It&amp;rsquo;s important to know that your work doesn&amp;rsquo;t define you as a person.&lt;/p&gt;
 &lt;h2 id=&#34;own-your-feelings&#34;&gt;own your feelings&lt;/h2&gt;

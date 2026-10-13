@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Excel on michcio.xyz</title>
-    <link>http://localhost:1313/tags/excel/</link>
+    <link>https://michcio.xyz/tags/excel/</link>
     <description>Recent content in Excel on michcio.xyz</description>
     <image>
       <title>michcio.xyz</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://michcio.xyz/images/papermod-cover.png</url>
+      <link>https://michcio.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Tue, 06 Jan 2026 17:09:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michcio.xyz/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is RPA?</title>
-      <link>http://localhost:1313/posts/what-is-rpa/</link>
+      <link>https://michcio.xyz/posts/what-is-rpa/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/posts/what-is-rpa/</guid>
+      <guid>https://michcio.xyz/posts/what-is-rpa/</guid>
       <description>&lt;a href=&#34;https://notbyai.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
+    &lt;img src=&#34;https://michcio.xyz/icons/Written-By-a-Human-Not-By-AI-Badge-black.svg&#34; alt=&#34;NOT By AI badge&#34; class=&#34;not-ai-icon&#34;/&gt;
 &lt;/a&gt;
 &lt;h2 id=&#34;historical-background&#34;&gt;historical background&lt;/h2&gt;
 &lt;p&gt;I work in a field that is on the verge of IT and Business - &lt;strong&gt;robotic process automation&lt;/strong&gt; which is fancy (and now standardized) name for a business automation. When such teams were being introduced to organizations about 10 years ago, the RPA software was still immature and many automations were done using battle-tested Office (mostly Excel, Access) macros. It had its disadvantages but allowed for fast development. Currently Microsoft is slowly killing it (due to security risks) and replacing with much safer (and web-enabled) Office Scripts. Main disadvantages for the macros is that environment it is being ran on might be different than development environment - your US colleague&amp;rsquo;s PC has different settings (decimal separator, encoding, etc.) than your Polish-set machine. RPA software was designed to fix it with &amp;lsquo;robots&amp;rsquo; that run on a VM. Robot could&amp;rsquo;ve done same thing as macro but now RPA team was able to control the environment parameters.&lt;/p&gt;</description>

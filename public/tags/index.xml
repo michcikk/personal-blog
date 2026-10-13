@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on michcio.xyz</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://michcio.xyz/tags/</link>
     <description>Recent content in Tags on michcio.xyz</description>
     <image>
       <title>michcio.xyz</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://michcio.xyz/images/papermod-cover.png</url>
+      <link>https://michcio.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.151.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Tue, 13 Oct 2026 09:09:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michcio.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arf</title>
-      <link>http://localhost:1313/tags/arf/</link>
+      <link>https://michcio.xyz/tags/arf/</link>
       <pubDate>Tue, 13 Oct 2026 09:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/arf/</guid>
+      <guid>https://michcio.xyz/tags/arf/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
+      <link>https://michcio.xyz/tags/automation/</link>
       <pubDate>Tue, 13 Oct 2026 09:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/automation/</guid>
+      <guid>https://michcio.xyz/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Business</title>
-      <link>http://localhost:1313/tags/business/</link>
+      <link>https://michcio.xyz/tags/business/</link>
       <pubDate>Tue, 13 Oct 2026 09:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/business/</guid>
+      <guid>https://michcio.xyz/tags/business/</guid>
       <description></description>
     </item>
     <item>
       <title>Framework</title>
-      <link>http://localhost:1313/tags/framework/</link>
+      <link>https://michcio.xyz/tags/framework/</link>
       <pubDate>Tue, 13 Oct 2026 09:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/framework/</guid>
+      <guid>https://michcio.xyz/tags/framework/</guid>
       <description></description>
     </item>
     <item>
       <title>Requirements</title>
-      <link>http://localhost:1313/tags/requirements/</link>
+      <link>https://michcio.xyz/tags/requirements/</link>
       <pubDate>Tue, 13 Oct 2026 09:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/requirements/</guid>
+      <guid>https://michcio.xyz/tags/requirements/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>http://localhost:1313/tags/work/</link>
+      <link>https://michcio.xyz/tags/work/</link>
       <pubDate>Tue, 13 Oct 2026 09:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/work/</guid>
+      <guid>https://michcio.xyz/tags/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Code Review</title>
-      <link>http://localhost:1313/tags/code-review/</link>
+      <link>https://michcio.xyz/tags/code-review/</link>
       <pubDate>Sat, 04 Apr 2026 18:00:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/code-review/</guid>
+      <guid>https://michcio.xyz/tags/code-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Compassion</title>
-      <link>http://localhost:1313/tags/compassion/</link>
+      <link>https://michcio.xyz/tags/compassion/</link>
       <pubDate>Sat, 04 Apr 2026 18:00:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/compassion/</guid>
+      <guid>https://michcio.xyz/tags/compassion/</guid>
       <description></description>
     </item>
     <item>
       <title>Empathy</title>
-      <link>http://localhost:1313/tags/empathy/</link>
+      <link>https://michcio.xyz/tags/empathy/</link>
       <pubDate>Sat, 04 Apr 2026 18:00:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/empathy/</guid>
+      <guid>https://michcio.xyz/tags/empathy/</guid>
       <description></description>
     </item>
     <item>
       <title>Mentoring</title>
-      <link>http://localhost:1313/tags/mentoring/</link>
+      <link>https://michcio.xyz/tags/mentoring/</link>
       <pubDate>Sat, 04 Apr 2026 18:00:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/mentoring/</guid>
+      <guid>https://michcio.xyz/tags/mentoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Development</title>
-      <link>http://localhost:1313/tags/software-development/</link>
+      <link>https://michcio.xyz/tags/software-development/</link>
       <pubDate>Mon, 09 Mar 2026 12:19:00 +0200</pubDate>
-      <guid>http://localhost:1313/tags/software-development/</guid>
+      <guid>https://michcio.xyz/tags/software-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Excel</title>
-      <link>http://localhost:1313/tags/excel/</link>
+      <link>https://michcio.xyz/tags/excel/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/excel/</guid>
+      <guid>https://michcio.xyz/tags/excel/</guid>
       <description></description>
     </item>
     <item>
       <title>Macro</title>
-      <link>http://localhost:1313/tags/macro/</link>
+      <link>https://michcio.xyz/tags/macro/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/macro/</guid>
+      <guid>https://michcio.xyz/tags/macro/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>http://localhost:1313/tags/microsoft/</link>
+      <link>https://michcio.xyz/tags/microsoft/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/microsoft/</guid>
+      <guid>https://michcio.xyz/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Rpa</title>
-      <link>http://localhost:1313/tags/rpa/</link>
+      <link>https://michcio.xyz/tags/rpa/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/rpa/</guid>
+      <guid>https://michcio.xyz/tags/rpa/</guid>
       <description></description>
     </item>
     <item>
       <title>Uipath</title>
-      <link>http://localhost:1313/tags/uipath/</link>
+      <link>https://michcio.xyz/tags/uipath/</link>
       <pubDate>Tue, 06 Jan 2026 17:09:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/uipath/</guid>
+      <guid>https://michcio.xyz/tags/uipath/</guid>
       <description></description>
     </item>
   </channel>
