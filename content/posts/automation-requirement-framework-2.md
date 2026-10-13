@@ -1,6 +1,6 @@
 ---
-date: "2026-04-19T09:09:44+02:00"
-draft: true
+date: "2026-10-14T09:09:44+02:00"
+draft: false
 title: 'Automation Requirement Framework, part 2: process deep dive'
 tags: ['work', 'automation', 'framework', 'business', 'arf', 'requirements']
 series: ['automation requirement framework']
@@ -17,45 +17,64 @@ Understanding your types is really important at this stage as next steps are tak
 
 On each type we do have separate discovery flow - global, local and fast.
 
-```mermaid
+## per-type discovery flow
+
+ ``` mermaid
+%%{ init : { "theme" : "default", "flowchart" : { "curve" : "linear" }}}%%
 
 flowchart TD
-    bucketSelection["bucket selection"]
-    task[task]
-    process[process]
-    oneTime[one-time effort]
-
-    local["<b>local</b> discovery"]
-    global["<b>global</b> discovery"]
-    fast["<b>fast</b> discovery"]
     
-    bucketSelection --> task
-    bucketSelection --> process
-    bucketSelection --> oneTime
+    local@{ shape: "h-cyl", label: "📍*TASK*"}
+    global@{ shape: "h-cyl", label: "🪐*PROCESS*" }
+    fast@{ shape: "h-cyl", label: "⚡*ONE-TIME*" }
 
-    task --> local
-    process --> global
-    oneTime --> fast
+    refine[["refinement (<i>streamline</i>, <i>improve</i>, <i>adjust</i>)"]]
+    scope@{ shape: "folder", label: "scoping (<i>extend</i>, <i>limit</i>, <i>include other areas</i>)"}
+    decide@{ shape: diam, label: "decision" }
+    technical[["technical refinement & architecture design"]]
+    localForm@{ shape: "card", label: "***SCOPED*** questionnaire" }
+    globalForm@{ shape: "card", label: "***FULL*** questionnaire"}
+    development@{ shape: "console", label: "development" }
+    onlyImprovement@{ shape: "doc", label: "document new process" }
+    otherSolution["different solution (or technology)"]
 
-    style bucketSelection fill:#fff,color:#000
+    local ---> localForm
+    localForm ---> technical
+    technical ---> development
 
-```
+    fast --> localForm
+
+    global ---> globalForm
+    globalForm ---> refine
+    refine ---> scope
+    scope ---> decide
+    decide --> |<b>automation</b>| localForm
+    decide ---> |<b>only process improvement</b>| onlyImprovement
+    decide ---> |<b>other</b>| otherSolution 
 
 
-## per-type flow
+ ```
 
 
 
+# next steps
 
-outline:
-next steps after task/process split
+## task & one-time
 
-2. split for process/task (task -> straight to development)
-3. process requirements gathering steps
-    - must-ask questions (deal breakers)
-    - must have (SOPs)
-    - good tool for understanding all involved parties - COPIS (or SIPOC)
-    - questions for understanding process itself and getting metrics, SLAs, etc.
-    - questions for understanding process in company scope
-4. process streamline / redefine
-    - should there be any additional standardize questions? (technical, organizational, etc.?)
+Both ***task*** automation and ***one-time*** ideas go through simplified, scoped questionnaire designed to ask only what's important for any of those above. After that we do technical refinement and move to development. At any stages we get artifact that we can always compare to what was agreed upon at the beginning - task detailed description after questionnaire and architecture decision record (ADR).
+
+## process
+
+For ***process*** discovery we get longer action tree. Form itself is longer with more open questions (incl. deal-breakers, something that can completely stop automation or improvement at the early stages). We demand SOPs (if there isn't one, we ask to create) in a form of a document (video will not do :().
+
+If possible, try to use COPIS (or SIPOC) to understand all involved parties (customer of a customer, provider of a provider and more) with all relation & action mapping. This also allows us to understand the process in the broader scope of an organization and how well its working between different areas.
+
+We need metrics, SLAs and any other data available to make informed decision how to improve (and/or automate) the thing. 
+
+### redefine
+
+Having all that information gather, then and only then we can start working on any improvements. We work on fixing the process  but we can also look at what can we do within organization - can this solution be extended to additional places? Maybe only some part of it should be redesigned? Yeah, such questions can only be answered after great research on what's already on the shelf.
+
+# coming next
+
+In next entries we will be looking into what are the actual questionnaires and which questions are the most important ones!
