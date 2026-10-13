@@ -19,7 +19,7 @@ On each type we do have separate discovery flow - global, local and fast.
 
 ## per-type discovery flow
 
-``` mermaid
+```mermaid
 %%{ init : { "theme" : "default", "flowchart" : { "curve" : "linear" }}}%%
 
 flowchart TD
